@@ -24,3 +24,9 @@ Git collaboration notes (O'Reilly live online training)
 - `git fetch --prune` : removes references to remote branches that have been deleted from remote repository
 
 - `git branch -d <branch>` : deletes local branch
+
+- `git stash` :
+
+- `git stash list` :
+
+- `git stash apply` :
