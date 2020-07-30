@@ -7,6 +7,10 @@ Git collaboration notes (O'Reilly live online training)
 
 - `git log --oneline --all --graph --decorate` : displays commits
 
+- `git status` : displays status of staging and changes
+
+- `git diff` : display differences
+
 ## Branches
 
 - `git branch <branch_name>` : creates a new branch where HEAD is
