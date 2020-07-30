@@ -16,3 +16,7 @@ Git collaboration notes (O'Reilly live online training)
 - `git push <remote-location> <branch>` : pushes branch to remote repository
 
 - `git push -u <remote-location> <branch>` : establishes default for `git push`
+
+- `git fetch --prune` : removes references to remote branches that have been deleted from remote repository
+
+- `git branch -d <branch>` : deletes local branch
