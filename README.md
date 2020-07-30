@@ -12,3 +12,7 @@ Git collaboration notes (O'Reilly live online training)
 - `git switch <branch_name>` : move to branch
 
 - `git branch -a` : lists branches local and remote
+
+- `git push <remote-location> <branch>` : pushes branch to remote repository
+
+- `git push -u <remote-location> <branch>` : establishes default for `git push`
