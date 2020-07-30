@@ -1,9 +1,15 @@
-# git_collaboration_
+# git_collaboration
 Git collaboration notes (O'Reilly live online training)
 
 - `git clone <url>` : downloads the repository from the web to your local computer
 
+## Display information
+
 - `git log --oneline --all --graph --decorate` : displays commits
+
+- `git status` : displays status of staging and changes
+
+- `git diff` : display differences
 
 ## Branches
 
@@ -22,3 +28,9 @@ Git collaboration notes (O'Reilly live online training)
 - `git fetch --prune` : removes references to remote branches that have been deleted from remote repository
 
 - `git branch -d <branch>` : deletes local branch
+
+- `git stash` :
+
+- `git stash list` :
+
+- `git stash apply` :
